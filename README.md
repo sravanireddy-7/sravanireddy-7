@@ -1,4 +1,10 @@
-## Hi there 👋
+### Hi, I'm Sravani 👋
+
+🎓 3rd Year Computer Science Student
+💻 Learning Java Full Stack Development
+📚 Practicing DSA and Problem Solving
+🚀 Building Projects and Improving Coding Skills
+
 
 <!--
 **sravanireddy-7/sravanireddy-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
