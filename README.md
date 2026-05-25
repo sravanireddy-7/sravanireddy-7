@@ -1,7 +1,7 @@
 ### Hi, I'm Sravani 👋
 
 🎓 Computer Science Student
-💻 Learning Java Full Stack Development
+💻 Learning  Full Stack Development
 📚 Practicing DSA and Problem Solving
 🚀 Building Projects and Improving Coding Skills
 
