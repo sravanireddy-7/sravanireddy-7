@@ -1,6 +1,6 @@
 ### Hi, I'm Sravani 👋
 
-🎓 3rd Year Computer Science Student
+🎓 Computer Science Student
 💻 Learning Java Full Stack Development
 📚 Practicing DSA and Problem Solving
 🚀 Building Projects and Improving Coding Skills
