@@ -1,4 +1,4 @@
-### Hi, I'm Sravani 👋
+###                                           Hi, I'm Sravani 👋
 
 🎓 Computer Science Student
 💻 Learning  Full Stack Development
